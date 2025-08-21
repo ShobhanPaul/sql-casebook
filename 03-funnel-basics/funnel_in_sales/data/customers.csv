@@ -1,0 +1,9 @@
+customer_id,first_name,city,segment,signup_date,platform
+100,Asha,Kolkata,Consumer,01-01-2024,web
+101,Rahul,Kolkata,Corporate,02-01-2024,app
+102,Mina,Delhi,Consumer,03-01-2024,web
+103,Imran,Mumbai,Home Office,03-01-2024,web
+104,Neha,Pune,Consumer,05-01-2024,app
+105,Priya,Bengaluru,Consumer,06-01-2024,app
+106,Amit,Chennai,Consumer,07-01-2024,web
+107,Leela,Hyderabad,Corporate,08-01-2024,app
