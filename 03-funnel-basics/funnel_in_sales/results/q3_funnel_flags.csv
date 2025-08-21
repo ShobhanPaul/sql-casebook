@@ -1,0 +1,9 @@
+customer_id,first_name,landed,signed_up,viewed,added,purchased
+100,Asha,t,t,t,t,t
+101,Rahul,t,t,t,t,f
+102,Mina,t,f,f,f,f
+103,Imran,t,t,f,f,f
+104,Neha,t,t,t,f,t
+105,Priya,t,f,t,f,f
+106,Amit,t,f,t,f,f
+107,Leela,t,t,f,f,t
