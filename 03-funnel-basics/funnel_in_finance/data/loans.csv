@@ -1,0 +1,7 @@
+loan_id,customer_id,product,funded_time,amount
+9001,100,personal_loan,11-08-2025 10:00,120000
+9002,103,personal_loan,10-08-2025 17:00,80000
+9003,105,personal_loan,12-08-2025 09:00,150000
+9004,107,personal_loan,11-08-2025 09:00,90000
+9005,110,personal_loan,11-08-2025 11:00,70000
+9006,111,personal_loan,12-08-2025 12:00,110000

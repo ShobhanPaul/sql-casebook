@@ -1,0 +1,13 @@
+customer_id,first_name,city,segment,signup_date
+100,Asha,Kolkata,retail,2025-07-01
+101,Rahul,Kolkata,salaried,2025-07-05
+102,Neha,Howrah,salaried,2025-07-10
+103,Mina,Durgapur,student,2025-07-12
+104,Arun,Siliguri,salaried,2025-07-15
+105,Kavya,Kolkata,self_employed,2025-07-18
+106,Tanvi,Kolkata,salaried,2025-07-20
+107,Om,Howrah,self_employed,2025-07-22
+108,Pooja,Kolkata,salaried,2025-07-25
+109,Vikram,Kolkata,student,2025-07-26
+110,Isha,Kolkata,salaried,2025-07-27
+111,Dev,Kolkata,salaried,2025-07-28
