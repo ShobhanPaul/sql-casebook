@@ -1,0 +1,13 @@
+customer_id,first_name,landed,started_application,application_submitted,doc_uploaded,kyc_verified,approved,funded
+100,Asha,t,t,t,t,t,t,t
+101,Rahul,t,t,f,f,f,f,f
+102,Neha,t,t,t,t,t,t,f
+103,Mina,t,t,t,t,t,t,t
+104,Arun,t,t,t,t,f,f,f
+105,Kavya,t,t,t,t,t,t,t
+106,Tanvi,t,f,f,f,f,f,f
+107,Om,t,t,t,t,t,t,t
+108,Pooja,t,t,t,t,t,t,f
+109,Vikram,t,t,t,f,f,f,f
+110,Isha,t,t,t,t,t,t,t
+111,Dev,t,t,t,t,t,t,t
